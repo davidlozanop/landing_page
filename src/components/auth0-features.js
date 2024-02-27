@@ -17,20 +17,6 @@ export const Auth0Features = () => {
       resourceUrl: "https://auth0.com/docs/multifactor-authentication",
       icon: "https://cdn.auth0.com/blog/hello-auth0/mfa-logo.svg",
     },
-    {
-      title: "Attack Protection",
-      description:
-        "Auth0 can detect attacks and stop malicious attempts to access your application such as blocking traffic from certain IPs and displaying CAPTCHA. Auth0 supports the principle of layered protection in security that uses a variety of signals to detect and mitigate attacks.",
-      resourceUrl: "https://auth0.com/docs/attack-protection",
-      icon: "https://cdn.auth0.com/blog/hello-auth0/advanced-protection-logo.svg",
-    },
-    {
-      title: "Serverless Extensibility",
-      description:
-        "Actions are functions that allow you to customize the behavior of Auth0. Each action is bound to a specific triggering event on the Auth0 platform. Auth0 invokes the custom code of these Actions when the corresponding triggering event is produced at runtime.",
-      resourceUrl: "https://auth0.com/docs/actions",
-      icon: "https://cdn.auth0.com/blog/hello-auth0/private-cloud-logo.svg",
-    },
   ];
 
   return (
