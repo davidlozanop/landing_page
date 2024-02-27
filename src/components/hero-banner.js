@@ -1,7 +1,7 @@
 import React from "react";
 
 export const HeroBanner = () => {
-  const logo = "https://cdn.auth0.com/blog/developer-hub/react-logo.svg";
+  const logo = "https://drive.google.com/file/d/1Tbj7bnT_aAMCw8uarwVx2TwZ1FJsXEMH/view?usp=sharing";
 
   return (
     <div className="hero-banner hero-banner--pink-yellow">
@@ -10,18 +10,8 @@ export const HeroBanner = () => {
       </div>
       <h1 className="hero-banner__headline">Hello, React World!</h1>
       <p className="hero-banner__description">
-        This is a sample application that demonstrates the authentication flow
-        for React apps using <strong>Auth0</strong>.
+      En la era digital, MatchAI se erige como la soluci&oacute;n vanguardista en gesti&oacute;n de recursos humanos, dise&ntilde;ada para empresas que buscan eficiencia, precisi&oacute;n y una estrategia centrada en el futuro. Nuestro servicio aprovecha el poder de la inteligencia artificial para transformar los procesos de RH durante la contrataci&oacute;n que asegura la excelencia operativa y una experiencia sin precedentes tanto para los gestores de recursos humanos como para los candidatos.
       </p>
-      <a
-        id="code-sample-link"
-        target="_blank"
-        rel="noopener noreferrer"
-        href="https://auth0.com/developers/hub/code-samples/spa/react-javascript/basic-authentication-with-react-router-6"
-        className="button button--secondary"
-      >
-        Check out the React code sample →
-      </a>
     </div>
   );
 };
