@@ -4,14 +4,14 @@ import { Auth0Feature } from "./auth0-feature";
 export const Auth0Features = () => {
   const featuresList = [
     {
-      title: "Identity Providers",
+      title: "Candidatos - Apply for jobs",
       description:
         "Auth0 supports social providers such as Google, Facebook, and Twitter, along with Enterprise providers such as Microsoft Office 365, Google Apps, and Azure. You can also use any OAuth 2.0 Authorization Server.",
       resourceUrl: "https://airtable.com/appRxOkPDdSPh9qqu/shrjoADOjbRndweHR",
       icon: "https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg",
     },
     {
-      title: "Multi-Factor Authentication",
+      title: "Clientes - Book a Demo",
       description:
         "You can require your users to provide more than one piece of identifying information when logging in. MFA delivers one-time codes to your users via SMS, voice, email, WebAuthn, and push notifications.",
       resourceUrl: "https://auth0.com/docs/multifactor-authentication",
