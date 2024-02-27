@@ -6,14 +6,14 @@ export const Auth0Features = () => {
     {
       title: "Candidatos - Apply for jobs",
       description:
-        "Auth0 supports social providers such as Google, Facebook, and Twitter, along with Enterprise providers such as Microsoft Office 365, Google Apps, and Azure. You can also use any OAuth 2.0 Authorization Server.",
+        "\nA continuaci&oacute;n, podr&aacute;s a&ntilde;adir tus datos para darte de alta en nuestra plataforma y aumentar exponencialmente tus posibilidades de ser contratado.",
       resourceUrl: "https://airtable.com/appRxOkPDdSPh9qqu/shrjoADOjbRndweHR",
       icon: "https://cdn.auth0.com/blog/hello-auth0/identity-providers-logo.svg",
     },
     {
       title: "Clientes - Book a Demo",
       description:
-        "You can require your users to provide more than one piece of identifying information when logging in. MFA delivers one-time codes to your users via SMS, voice, email, WebAuthn, and push notifications.",
+        "\nA continuaci&oacute;n, podr&aacute;s a&ntilde;adir tus datos para darte de alta en nuestra plataforma y aumentar exponencialmente las posibilidades de encontrar al candidato ideal para su organizaci&oacute;n.",
       resourceUrl: "https://airtable.com/appRxOkPDdSPh9qqu/pagOFFIeSJ6A8d4DG/form",
       icon: "https://cdn.auth0.com/blog/hello-auth0/mfa-logo.svg",
     },
